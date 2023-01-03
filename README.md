@@ -15,3 +15,9 @@
 >Debug|RepoCleaner Debug Properties|Command line arguments
 
 ![Screenshot 2023-01-03 120440](https://user-images.githubusercontent.com/23365872/210354157-e3a55b69-d2d4-4cef-a806-532f1157a42b.png)
+
+## Screenshot
+
+<p>Here's a screenshot of it after a run.</p>
+
+![Screenshot 2023-01-03 121444](https://user-images.githubusercontent.com/23365872/210355675-320074f9-fe4e-4370-a16d-6c99d2a816e0.png)
